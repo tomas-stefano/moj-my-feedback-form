@@ -10,25 +10,25 @@
           "_id": "page._first-page--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
           "label": "![Dance](https://media2.giphy.com/media/LrM68GvvlmnNtBQTLj/giphy.gif)",
-          "value": "auto_value__1"
+          "value": "Dance"
         },
         {
           "_id": "page._first-page--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "![Clap](https://media1.giphy.com/media/p3WlyWHDyDeJq/giphy.gif)",
-          "value": "auto_value__2"
+          "value": "Clap"
         },
         {
           "_id": "page._first-page--radios.auto_name__1--radio.auto_value__3",
           "_type": "radio",
           "label": "![Thumbs up](https://media0.giphy.com/media/BIuuwHRNKs15C/giphy.gif)",
-          "value": "auto_value__3"
+          "value": "thumbs-up"
         },
         {
           "_id": "page._first-page--radios.auto_name__1--radio.auto_value__4",
           "_type": "radio",
           "label": "![First try](https://media1.tenor.com/images/9abac5d6ffa83c2af17185895769b513/tenor.gif?itemid=13421864)",
-          "value": "auto_value__4"
+          "value": "first-try"
         }
       ],
       "legend": "What gif best represents what you feel about my work?",

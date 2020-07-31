@@ -1,0 +1,43 @@
+{
+  "_id": "page._improvements",
+  "_type": "page.form",
+  "components": [
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page._improvements--textarea.auto_name__2",
+      "_type": "textarea",
+      "label": "What should I continue doing? (Optional)",
+      "name": "auto_name__2",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page._improvements--textarea.auto_name__3",
+      "_type": "textarea",
+      "label": "What I should stop doing? (Optional)",
+      "name": "auto_name__3",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "_id": "page._improvements--textarea.auto_name__7",
+      "_type": "textarea",
+      "label": "Any extra suggestions on any improvements should I made? (Optional)",
+      "name": "auto_name__7",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "heading": "Mini-retrospective",
+  "url": "/improvements"
+}

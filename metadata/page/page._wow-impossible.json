@@ -1,0 +1,18 @@
+{
+  "_id": "page._wow-impossible",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page._wow-impossible--content",
+      "_type": "content",
+      "html": "![Wow](https://media3.giphy.com/media/ccosx2jCejdew/100.webp?cid=ecf05e47pdrpcdav4irxva8d1ze045ailzrjuzvwluo2l7pu&rid=100.webp)"
+    }
+  ],
+  "heading": "Impossible!",
+  "show": {
+    "identifier": "auto_name__4",
+    "operator": "is",
+    "value": "No"
+  },
+  "url": "/wow-impossible"
+}
